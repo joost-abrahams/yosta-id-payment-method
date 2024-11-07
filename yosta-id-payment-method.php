@@ -5,10 +5,9 @@ Description: Add ID Column to Payment Methods Table
 Version: 0.1
 Author: Joost Abrahams
 Author URI: https://mantablog.nl
-GitHub Plugin URI: https://github.com/joost-abrahams/
+GitHub Plugin URI: https://github.com/joost-abrahams/yosta-id-payment-method/
 Source  URI: https://rudrastyh.com/woocommerce/add-id-column-to-payment-methods-table.html
 License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires Plugins: woocommerce
 */
 
