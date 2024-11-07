@@ -18,6 +18,8 @@ defined( 'ABSPATH' ) or die;
 $plugin = plugin_basename( __FILE__ );
 add_filter( "wp_consent_api_registered_{$plugin}", '__return_true' );
 
+// Happy hacking
+
 add_filter( 'woocommerce_payment_gateways_setting_columns', 'rudr_add_payment_method_column' );
 
 function rudr_add_payment_method_column( $default_columns ) {
